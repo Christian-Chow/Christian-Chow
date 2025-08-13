@@ -1,31 +1,14 @@
+# 👋 Hi, I'm Him!
+🔭 I’m currently working on Final year project at HKUST (developing self-repairing AI agents) and applying AI to full stack web and mobile app development.<br>🌱 I’m currently learning advanced topics in AI, cybersecurity, software development and devOps.<br>💬 Ask me about anything you want<br>📫 How to reach me: christianchow102929@gmail.com.<br>⚡ Fun fact: Not only am I a Computer Engineering student at HKUST and got onto the Dean's List in 2023-2024 Spring, I am also an auxiliary police officer in Hong Kong Police Forces, familiar with police procedures & do gym in 24/7 fitness and dragon boat.<br>😄 Know More About me: https://www.notion.so/cth-christian/Hi-I-am-Christian-1c7a89275eee80e8bf0aec1326091ee0
 
 
-<!--
-## Hi, I'm Him! 👋
-**Christian-Chow/Christian-Chow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hi, I'm Christian! 👋
-Currently a 4th-year [Computer Engineering](https://cpeg.hkust.edu.hk/cgi-bin/eng/index.php) student at HKUST, with hands-on experience as a software developer intern in multiple tech companies and an auxiliary police officer in Hong Kong.
+# 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Christian-Chow&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Christian-Chow&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Chow&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-- 🔭 I’m currently working on Final year project at HKUST (developing self-repairing AI agents) and applying AI to full stack web and mobile app development.
-- 🌱 I’m currently learning advanced topics in AI, cybersecurity, software development and devOps.
-- 💬 Ask me about anything you want
-- 📫 How to reach me: christianchow102929@gmail.com.
-- ⚡ Fun fact: Not only am I a Computer Engineering student at HKUST and got onto the Dean's List in 2023-2024 Spring, I am also an auxiliary police officer in [Hong Kong Police Forces](https://www.police.gov.hk/ppp_en/index.html), familiar with police procedures & do gym in 24/7 fitness and dragon boat.
-- 😄 Know More About me: https://www.notion.so/cth-christian/Hi-I-am-Christian-1c7a89275eee80e8bf0aec1326091ee0
 
-
-[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Chow&show_icons=true&theme=tokyonight)](https://github.com/Christian-Chow/github-readme-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
