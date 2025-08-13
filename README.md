@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm Christian! 👋
-Currently a 4th-year Computer Engineering student at HKUST, with hands-on experience as a software developer intern in multiple tech companies and as an auxiliary police officer in Hong Kong. I'm passionate about software development, AI and cybersecurity. 
+Currently a 4th-year Computer Engineering student at HKUST, with hands-on experience as a software developer intern in multiple tech companies and as an auxiliary police officer in Hong Kong.
 
 - 🔭 I’m currently working on Final year project at HKUST (developing self-repairing AI agents) and applying AI to full stack web and mobile app development.
 - 🌱 I’m currently learning advanced topics in AI, cybersecurity, software development and devOps.
