@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi, I'm Christian! 👋
 **Christian-Chow/Christian-Chow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Christian! 👋 👨‍💻👮
+
+I'm a 4th-year Computer Engineering student at HKUST, with hands-on experience as a software engineer intern and as an auxiliary police officer in Hong Kong. I'm passionate about software development, especially full stack web and mobile app development, and I'm diving deeper into AI and cybersecurity. Let's connect and build something awesome!
+
+- 🔭 I’m currently working on ...  
+  Final year projects at HKUST, including full stack web applications and exploring AI-driven features for mobile apps. I'm also tinkering with personal cybersecurity tools to enhance data privacy.
+
+- 🌱 I’m currently learning ...  
+  Advanced topics in AI (like machine learning frameworks such as TensorFlow) and cybersecurity (focusing on ethical hacking and network security). As a computer engineering student, I'm always expanding my skills in software development.
+
+- 👯 I’m looking to collaborate on ...  
+  Open-source projects related to full stack web/mobile apps, AI-powered tools, or cybersecurity initiatives. If you're building something innovative in these areas, let's team up!
+
+- 🤔 I’m looking for help with ...  
+  Career advice in the tech industry, such as breaking into AI/cybersecurity roles or preparing for software engineering interviews. Also, insights on balancing studies with real-world experiences like internships or auxiliary police duties.
+
+- 💬 Ask me about ...  
+  Software development (full stack web and mobile apps), my experiences as a software engineer intern, or life as an auxiliary police officer in Hong Kong. I'm happy to share tips on coding, AI, cybersecurity, or even maintaining work-life balance as a student.
+
+- 📫 How to reach me: ...  
+  Feel free to email me at christianchow@example.com (replace with your actual email) or connect with me on LinkedIn: [linkedin.com/in/christianchow](https://linkedin.com/in/christianchow). Let's chat!
+
+- 😄 Pronouns: ...  
+  He/him
+
+- ⚡ Fun fact: ...  
+  As an auxiliary police officer in Hong Kong, I've learned the importance of quick thinking and problem-solving under pressure—skills that come in handy when debugging code or developing secure apps!
