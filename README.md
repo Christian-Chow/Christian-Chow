@@ -28,4 +28,4 @@ Currently a 4th-year [Computer Engineering](https://cpeg.hkust.edu.hk/cgi-bin/en
 - 😄 Know More About me: https://www.notion.so/cth-christian/Hi-I-am-Christian-1c7a89275eee80e8bf0aec1326091ee0
 
 
-[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Chow)](https://github.com/Christian-Chow/github-readme-stats)
+[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Chow&show_icons=true&theme=tokyonight)](https://github.com/Christian-Chow/github-readme-stats)
